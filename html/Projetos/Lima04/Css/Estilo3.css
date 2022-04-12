@@ -1,0 +1,14 @@
+#p1 {font-family:Arial; 
+    color:red;
+    font-size: normal}
+#p2 {font-family: Times; 
+    font-size: 22px; 
+    color: green;}
+#p3 {font-family: Sans-serif; 
+    font-size: 20px; 
+    color: blue; 
+    font-style:italic;}
+#p4 {color:yellow; 
+    font-weight: bold; font-size: 14px;
+     font-weight:medium; 
+     font-family:Verdana}
